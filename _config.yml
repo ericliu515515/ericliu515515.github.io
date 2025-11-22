@@ -27,8 +27,8 @@ author:
   name             : "Eric"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Taiwan"
+  employer         : # Username
   uri              : # URL
   email            : "none@example.org" 
 
