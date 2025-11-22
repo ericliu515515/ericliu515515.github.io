@@ -15,7 +15,7 @@ Education
 
 Honors and Experience 
 =====
-* Outstanding Student Award, National Cheng Kung University — 2022–2025
+* Outstanding Student Award, National Cheng Kung University, 2022~2025
 * Undergraduate Research Grant, College of Science, National Cheng Kung University 
 * Dr. Ding-Wen Li Memorial Scholarship, National Cheng Kung University
 * USRP Research Program in Algebraic Geometry, Natoinal Center of Theoretical Science, Summer 2025
