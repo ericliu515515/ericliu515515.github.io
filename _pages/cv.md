@@ -22,7 +22,7 @@ Honors and Experience
 
 Teaching 
 ===
-* TA: Algebra 1, 2025, NCKU   
+* TA: Algebra (1), 2025, NCKU   
 
 Langauges
 =====
