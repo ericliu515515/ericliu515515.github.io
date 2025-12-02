@@ -18,6 +18,10 @@ Honors and Experience
 * Dr. Ding-Wen Li Memorial Scholarship, National Cheng Kung University
 * USRP Research Program in Algebraic Geometry, National Center of Theoretical Science, Summer 2025
 
+Teaching
+===
+* TA for the class: Algebra (1), NCKU, first semester of 2025 
+
 Langauges
 =====
 * English
