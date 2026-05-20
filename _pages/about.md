@@ -30,6 +30,7 @@ Langauges
 Coding Skills
 ======
 * LaTeX 
+* Python
 
 <!--
 Publications
@@ -39,6 +40,5 @@ Publications
   {% endfor %}</ul>
 -->
   
-
 
 
