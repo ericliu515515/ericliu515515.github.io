@@ -11,26 +11,23 @@ Education
 ======
 * B.S. in Mathematics, National Cheng Kung University, 2026 (expected)
 
-Honors and Experience 
-=====
-* Outstanding Student Award, National Cheng Kung University, 2022~2025
-* Undergraduate Research Grant, College of Science, National Cheng Kung University 
-* Dr. Ding-Wen Li Memorial Scholarship, National Cheng Kung University
-* USRP Research Program in Algebraic Geometry, National Center of Theoretical Science, Summer 2025
-
-Teaching
-===
-* TA for the class: Algebra (1), NCKU, first semester of 2025 
+Coding Skills
+======
+* Python 
+* SQL 
 
 Langauges
 =====
 * English
 * Mandarin  
 
-Coding Skills
-======
-* LaTeX 
-* Python
+Honors and Experience 
+=====
+* Outstanding Student Award, National Cheng Kung University, 2022~2025
+* Undergraduate Research Grant, College of Science, National Cheng Kung University 
+* Dr. Ding-Wen Li Memorial Scholarship, National Cheng Kung University
+* USRP Research Program in Algebraic Geometry, National Center of Theoretical Science, Summer 2025
+* TA: Algebra (1), 2025, NCKU   
 
 <!--
 Publications
